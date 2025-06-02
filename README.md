@@ -36,6 +36,19 @@ Die Stundenpläne werden in einer übersichtlichen Tabellenform generiert:
 
 Ziel ist es, eine modulare und erweiterbare Schulverwaltungssoftware zu entwickeln, die eine effiziente Planung und Organisation des Schulbetriebs unterstützt. Das Projekt kann später durch Webschnittstellen, GUI-Module oder weitere Funktionen (z. B. Vertretungspläne) erweitert werden.
 
+
+## 🚀 Starten des Projekts
+
+1. Klonen Sie das Repository:
+   ```bash
+   git clone https://github.com/RamazanOrsal/School_Database.git
+   cd School_Database
+   pip install pandas, mysql-connector-python
+
+2.Führen Sie das Hauptskript aus:
+  python app.py
+
+
 ---
 
 Für weitere Details siehe Code und Kommentare in den jeweiligen Dateien.
