@@ -1,4 +1,4 @@
-# 🎓 Schulverwaltungsprojekt mit Python & MySQL
+# 🎓 Schulverwaltungsprojekt mit Python, Pandas & MySQL
 
 ## 📊 Projektbeschreibung
 
