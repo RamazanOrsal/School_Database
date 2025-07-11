@@ -4,7 +4,7 @@ from datetime import datetime
 mydb=mysql.connector.connect(
     host='localhost',
     user='root',
-    password='Rr.322655',
+    password='++++++',
     database='schooldb'
 )
 
